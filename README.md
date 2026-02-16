@@ -212,7 +212,8 @@ For each 50ms time bin:
 
 ### Raster + PETH Example
 
-![Neuron Response](results/raster_plot.jpg)
+<img width="1584" height="763" alt="image" src="https://github.com/user-attachments/assets/9087f330-9ee0-472d-aee3-fe5fca0812f9" />
+
 
 *Channel 54, Unit 1 responds strongly to thumb movements with ~50ms latency*
 
@@ -221,7 +222,8 @@ For each 50ms time bin:
 
 ### Decoder Thresholds
 
-![Decoder](results/decoder_threshold.jpg)
+<img width="1726" height="774" alt="image" src="https://github.com/user-attachments/assets/0a73199d-5bed-46f6-8e6b-40c73e5db7b0" />
+
 
 *Three neurons with complementary response fields enable robust movement prediction*
 
