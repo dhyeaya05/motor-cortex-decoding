@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.autosave
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor backup files
+*~
+*.swp
+*.swo
